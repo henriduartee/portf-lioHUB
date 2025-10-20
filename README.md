@@ -17,6 +17,6 @@ Este é meu portfólio visual desenvolvido no Canva, contendo:
 - [Projetos Pessoais](projetos-pessoais)
 
 ## 🔗 Links Importantes
-- [LinkedIn](https://www.linkedin.com/in/pablo-henrique-duarte)
+- [LinkedIn](https://www.linkedin.com/in/pablo-henrique-lima-duarte)
 - [GitHub](https://github.com/henriduartee)
 - [Portfólio Canva](https://portifolio-henriduarte.my.canva.site)
