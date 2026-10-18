@@ -1,10 +1,10 @@
 # Meu Portfólio - Pablo Henrique
 
-## 👨‍🎓 Sobre Mim
+## Sobre Mim
 Estudante de Ciência da Computação - CEUB
 
-## 🌐 Portfólio Online
-**👉 [ACESSAR MEU PORTFÓLIO COMPLETO](https://portifolio-henriduarte.my.canva.site) 👈**
+## Portfólio Online
+* [ACESSAR MEU PORTFÓLIO COMPLETO]https://henriduarte.lovable.app/#projetos) **
 
 Este é meu portfólio visual desenvolvido no Canva, contendo:
 - Apresentação pessoal
