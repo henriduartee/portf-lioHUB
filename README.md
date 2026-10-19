@@ -4,7 +4,7 @@
 Estudante de Ciência da Computação - CEUB
 
 ## Portfólio Online
-* [ACESSAR MEU PORTFÓLIO COMPLETO] https://henriduarte.lovable.app/#projetos) **
+* [ACESSAR MEU PORTFÓLIO COMPLETO](https://henriduarte.lovable.app/#projetos) **
 
 Este é meu portfólio visual desenvolvido no Canva, contendo:
 - Apresentação pessoal
